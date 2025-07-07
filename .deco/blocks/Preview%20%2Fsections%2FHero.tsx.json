@@ -1,1 +1,15 @@
-{"__resolveType":"site/sections/Hero.tsx","title":"<p>Click here to tweak this text however you want.</p>","placement":"left","cta":[],"description":"This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away."}
+{
+  "__resolveType": "site/sections/Hero.tsx",
+  "title": "<h1><strong><span style=\"font-size: 49pt\">Trama: suporte para headphones</span></strong></h1>",
+  "placement": "left",
+  "cta": [
+    {
+      "href": "#modal",
+      "text": "Pedir o meu agora!",
+      "outline": false
+    }
+  ],
+  "description": "Apresentamos o Trama  Um suporte artesanal para headphones, criado a partir de técnicas tradicionais da marcenaria. Cada peça é única — feita com madeiras brasileiras, encaixes precisos, e acabamento à base de óleos e ceras.  Mais que um suporte, uma peça de design funcional com alma brasileira. Para quem vive o som — e valoriza a matéria!",
+  "image": "https://assets.decocache.com/jacarandateste/d191e0fc-7355-46f7-9421-6d313d5bc940/fone.jpg",
+  "backgroundimage": "https://images.unsplash.com/photo-1414497729697-b8555ba6c1cc?q=80&w=1555&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+}

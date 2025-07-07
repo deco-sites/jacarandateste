@@ -21,6 +21,7 @@ export interface Props {
   image?: ImageWidget;
   placement?: "left" | "right";
   cta?: CTA[];
+  backgroundimage?: string;
 }
 
 const PLACEMENT = {
